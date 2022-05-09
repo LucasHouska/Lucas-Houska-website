@@ -11702,3 +11702,9 @@ body {
 #photo-replacement {
   height: 466px;
 }
+
+#img-self {
+  height:400px;
+  width: 350px;
+  border-radius: 50%;
+}
